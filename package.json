@@ -4,7 +4,7 @@
   "description": "react-native-listview-row-edit. A components like weChat swipe(slide) left to edit",
   "main": "index.js",
   "directories": {
-    "example": "example"
+    "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

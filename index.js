@@ -1,3 +1,3 @@
-var ListViewEdit = require('listViewEdit');
+var ListViewEdit = require('./lib/listViewEdit');
 
-module.exports = {ListViewEdit};
+module.exports = ListViewEdit;
