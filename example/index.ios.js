@@ -10,4 +10,5 @@ var {
   AppRegistry,
 } = require('react-native');
 
+
 AppRegistry.registerComponent('example', () => Demo);
