@@ -1,5 +1,5 @@
 /**
- * react-native-listView-edit
+ * react-native-listview-row-edit
  * https://github.com/pop-xiaodong
  */
 'use strict';

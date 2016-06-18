@@ -1,10 +1,10 @@
 {
   "name": "react-native-listview-row-edit",
   "version": "1.0.0",
-  "description": "react-native-listview-row-edit. A components like weChat swipe(slide) left to edit",
+  "description": "react-native-listview-row-edit, A components like weChat swipe(slide) left to edit.",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "example": "example"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,14 +14,12 @@
     "url": "git+https://github.com/pop-xiaodong/react-native-listview-row-edit.git"
   },
   "keywords": [
-    "react-native-listview-row-edit",
     "react-native",
     "listview",
     "rowEdit",
-    "swipe",
-    "slide"
+    "swipe"
   ],
-  "author": "pop-xiaodong",
+  "author": "alphamao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pop-xiaodong/react-native-listview-row-edit/issues"
