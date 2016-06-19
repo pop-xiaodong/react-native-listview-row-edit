@@ -1,6 +1,6 @@
 {
   "name": "react-native-listview-row-edit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-listview-row-edit, A components like weChat swipe(slide) left to edit.",
   "main": "index.js",
   "directories": {
